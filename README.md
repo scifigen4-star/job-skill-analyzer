@@ -1,1 +1,0 @@
-# job-skill-analyzer
